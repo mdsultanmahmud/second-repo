@@ -11,3 +11,8 @@ h1{
     margin: 20px auto;
     height: 70%;
 }
+
+.einstein{
+    display: flex;
+    flex: 1;
+}
