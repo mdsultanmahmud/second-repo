@@ -14,5 +14,13 @@ h1{
 
 .einstein{
     display: flex;
-    flex: 1;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+.qeu{
+    margin-left: 20px; 
+}
+.qeu h3{
+    margin:10px 0px 0px 20px;
 }
